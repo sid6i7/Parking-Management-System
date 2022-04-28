@@ -1,3 +1,0 @@
-two-wheelers: 0
-four-wheelers: 0
-total-vehicles: 0
