@@ -1,0 +1,3 @@
+two-wheeler-slots: 0
+four-wheeler-slots: 0
+total-slots: 0
